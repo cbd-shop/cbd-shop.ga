@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cbd-shop.ga
+Token: 84021e9ab072e11389bb4bde5a249765106b0f627da0b33a66812b7bb9cd23d6
