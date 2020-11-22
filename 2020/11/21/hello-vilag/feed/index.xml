@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Helló Világ!	</title>
+	<atom:link href="/https://cbd-shop.ga/2020/11/21/hello-vilag/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://cbd-shop.ga/2020/11/21/hello-vilag/</link>
+	<description>...egy újabb WordPress honlap...</description>
+	<lastBuildDate>Sat, 21 Nov 2020 15:36:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.9</generator>
+			<item>
+				<title>
+				Szerző: WordPress Commenter				</title>
+				<link>/https://cbd-shop.ga/2020/11/21/hello-vilag/#comment-1</link>
+		<dc:creator><![CDATA[WordPress Commenter]]></dc:creator>
+		<pubDate>Sat, 21 Nov 2020 15:36:58 +0000</pubDate>
+		<guid isPermaLink="false">/https://cbd-shop.ga/?p=1#comment-1</guid>
+					<description><![CDATA[Üdvözlet! Ez egy hozzászólás.
+A hozzászólások moderálásához, szerkesztéséhez és törléséhez látogassunk el a honlapunk vezérlőpultjának
+Hozzászólások menüpontjához.
+A hozzászólok avatarját a &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt; biztosítja.]]></description>
+		<content:encoded><![CDATA[<p>Üdvözlet! Ez egy hozzászólás.<br />
+A hozzászólások moderálásához, szerkesztéséhez és törléséhez látogassunk el a honlapunk vezérlőpultjának<br />
+Hozzászólások menüpontjához.<br />
+A hozzászólok avatarját a <a href="https://gravatar.com/">Gravatar</a> biztosítja.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
