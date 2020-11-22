@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Egyéb kategória &#8211; cbd</title>
-	<atom:link href="/cbd-shop.ga/category/egyeb/feed/" rel="self" type="application/rss+xml" />
-	<link>/cbd-shop.ga/</link>
+	<atom:link href="https://cbd-shop.ga/category/egyeb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cbd-shop.ga/</link>
 	<description>...egy újabb WordPress honlap...</description>
 	<lastBuildDate>Sat, 21 Nov 2020 15:36:58 +0000</lastBuildDate>
 	<language>hu</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=5.2.9</generator>
 	<item>
 		<title>Helló Világ!</title>
-		<link>/cbd-shop.ga/2020/11/21/hello-vilag/</link>
-				<comments>/cbd-shop.ga/2020/11/21/hello-vilag/#comments</comments>
+		<link>https://cbd-shop.ga/2020/11/21/hello-vilag/</link>
+				<comments>https://cbd-shop.ga/2020/11/21/hello-vilag/#comments</comments>
 				<pubDate>Sat, 21 Nov 2020 15:36:58 +0000</pubDate>
 		<dc:creator><![CDATA[Administrator]]></dc:creator>
 				<category><![CDATA[Egyéb kategória]]></category>
 
-		<guid isPermaLink="false">/cbd-shop.ga/?p=1</guid>
+		<guid isPermaLink="false">https://cbd-shop.ga/?p=1</guid>
 				<description><![CDATA[Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.]]></description>
 								<content:encoded><![CDATA[
 <p>Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.</p>
 ]]></content:encoded>
-							<wfw:commentRss>/cbd-shop.ga/2020/11/21/hello-vilag/feed/</wfw:commentRss>
+							<wfw:commentRss>https://cbd-shop.ga/2020/11/21/hello-vilag/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>

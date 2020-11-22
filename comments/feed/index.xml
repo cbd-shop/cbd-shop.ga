@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Hozzászólások ehhez: cbd	</title>
-	<atom:link href="/cbd-shop.ga/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/cbd-shop.ga/</link>
+	<atom:link href="https://cbd-shop.ga/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cbd-shop.ga/</link>
 	<description>...egy újabb WordPress honlap...</description>
 	<lastBuildDate>Sat, 21 Nov 2020 15:36:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,10 +20,10 @@
 			<item>
 				<title>
 				WordPress Commenter hozzászólása (Helló Világ!)				</title>
-				<link>/cbd-shop.ga/2020/11/21/hello-vilag/#comment-1</link>
+				<link>https://cbd-shop.ga/2020/11/21/hello-vilag/#comment-1</link>
 		<dc:creator><![CDATA[WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 21 Nov 2020 15:36:58 +0000</pubDate>
-		<guid isPermaLink="false">/cbd-shop.ga/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://cbd-shop.ga/?p=1#comment-1</guid>
 					<description><![CDATA[Üdvözlet! Ez egy hozzászólás.
 A hozzászólások moderálásához, szerkesztéséhez és törléséhez látogassunk el a honlapunk vezérlőpultjának
 Hozzászólások menüpontjához.
