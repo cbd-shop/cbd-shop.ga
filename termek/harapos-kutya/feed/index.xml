@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>cbd</title>
-	<atom:link href="https://cbd-shop.ga/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cbd-shop.ga/</link>
+	<title>
+	Hozzászólások ehhez: harapós kutya	</title>
+	<atom:link href="https://cbd-shop.ga/termek/harapos-kutya/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cbd-shop.ga/termek/harapos-kutya/</link>
 	<description>csak  a kender</description>
-	<lastBuildDate>2020-11-23 11:44:06</lastBuildDate>
-	<language>hu</language>
+	<lastBuildDate>Mon, 23 Nov 2020 11:44:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Termékek &#8211; cbd</title>
-	<atom:link href="https://cbd-shop.ga/shop/feed/" rel="self" type="application/rss+xml" />
+	<title>Egyéb &#8211; cbd</title>
+	<atom:link href="https://cbd-shop.ga/termekkategoria/egyeb/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cbd-shop.ga/</link>
 	<description>csak  a kender</description>
 	<lastBuildDate>Mon, 23 Nov 2020 11:44:06 +0000</lastBuildDate>
