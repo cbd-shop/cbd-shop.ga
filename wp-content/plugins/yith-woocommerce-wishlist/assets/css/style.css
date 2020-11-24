@@ -34,11 +34,11 @@
 
 .selectBox-dropdown .selectBox-arrow{
     border: none;
-    background: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center right no-repeat;
+    background: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center right no-repeat;
 }
 
 .selectBox-dropdown.selectBox-menuShowing .selectBox-arrow{
-    background: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center left no-repeat;
+    background: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png) center left no-repeat;
 }
 
 .selectBox-dropdown-menu{
@@ -377,11 +377,11 @@ div.product .woocommerce-price-and-add .single_add_to_wishlist.button {
 }
 
 .yith-wcwl-share li a:hover { background-position: left bottom; }
-.yith-wcwl-share li a.facebook { background-image: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/facebook.png); }
-.yith-wcwl-share li a.twitter { background-image: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/twitter.png); }
-.yith-wcwl-share li a.pinterest { background-image: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/pinterest.jpg); }
-.yith-wcwl-share li a.googleplus { background-image: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/googleplus.jpg); }
-.yith-wcwl-share li a.email { background-image: url(http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/email.jpg); }
+.yith-wcwl-share li a.facebook { background-image: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/facebook.png); }
+.yith-wcwl-share li a.twitter { background-image: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/twitter.png); }
+.yith-wcwl-share li a.pinterest { background-image: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/pinterest.jpg); }
+.yith-wcwl-share li a.googleplus { background-image: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/googleplus.jpg); }
+.yith-wcwl-share li a.email { background-image: url(https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-wishlist/assets/images/email.jpg); }
 
 /* Ask an estimate button */
 .woocommerce .wishlist_table.cart .ask-an-estimate-button,

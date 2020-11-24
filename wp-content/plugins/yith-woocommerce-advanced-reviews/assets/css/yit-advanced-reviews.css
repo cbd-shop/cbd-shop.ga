@@ -17,7 +17,7 @@ table.product-review-stats tbody tr td.stats {
 
 /* Review table */
 #ywar-reviews table.wp-list-table thead tr th#upvoting a {
-    background: url("http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/like.png") no-repeat;
+    background: url("https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/like.png") no-repeat;
     background-position: 5px 5px;
     display: inline-block;
 }
@@ -29,7 +29,7 @@ table.product-review-stats tbody tr td.stats {
 }
 
 #ywar-reviews table.wp-list-table thead tr  th#downvoting a {
-    background: url("http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/dislike.png") no-repeat;
+    background: url("https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/dislike.png") no-repeat;
     background-position: 5px 5px;
     display: inline-block;
 }
@@ -135,14 +135,14 @@ span.converted-items {
 **********  Front-end classes   ***************
 *********************************************** */
 a.review-inappropriate {
-    background: url("http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/caution-disabled.png") no-repeat center center;
+    background: url("https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/caution-disabled.png") no-repeat center center;
     display: inline-block;
     height: 30px;
     width: 30px;
     padding: 10px;
 }
 a.review-inappropriate:hover {
-    background: url("http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/caution.png") no-repeat center center;
+    background: url("https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/caution.png") no-repeat center center;
 }
 
 .hide-rating {
@@ -216,7 +216,7 @@ div.horizontalRule {
 }
 
 #tab-reviews a.ywar_votereview {
-    background: url("http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/sprites.png") no-repeat !important;
+    background: url("https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-advanced-reviews/assets/images/sprites.png") no-repeat !important;
 }
 
 /*  upvote section */
