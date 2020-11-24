@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Egyéb &#8211; cbd</title>
-	<atom:link href="https://cbd-shop.ga/termekkategoria/egyeb/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cbd-shop.ga/</link>
+	<atom:link href="http://cbd-shop.ga/termekkategoria/egyeb/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cbd-shop.ga/</link>
 	<description>csak  a kender</description>
-	<lastBuildDate>Mon, 23 Nov 2020 11:44:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Nov 2020 11:55:28 +0000</lastBuildDate>
 	<language>hu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.2.9</generator>
 	<item>
 		<title>harapós kutya</title>
-		<link>https://cbd-shop.ga/termek/harapos-kutya/</link>
-				<comments>https://cbd-shop.ga/termek/harapos-kutya/#respond</comments>
+		<link>http://cbd-shop.ga/termek/harapos-kutya/</link>
+				<comments>http://cbd-shop.ga/termek/harapos-kutya/#respond</comments>
 				<pubDate>Mon, 23 Nov 2020 11:44:05 +0000</pubDate>
 		<dc:creator><![CDATA[Administrator]]></dc:creator>
 		
-		<guid isPermaLink="false">https://cbd-shop.ga/?post_type=product&#038;p=42</guid>
+		<guid isPermaLink="false">http://cbd-shop.ga/?post_type=product&#038;p=42</guid>
 				<description><![CDATA[rúg csíp harap]]></description>
 								<content:encoded><![CDATA[<p>rúg csíp harap</p>
-<p><img class="alignnone wp-image-43 size-full" src="https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg" alt="" width="633" height="484" srcset="https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg 633w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg 300w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-39x30.jpg 39w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-555x424.jpg 555w" sizes="(max-width: 633px) 100vw, 633px" /><img class="alignnone size-medium wp-image-43" src="https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg" alt="" width="300" height="229" srcset="https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg 300w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-39x30.jpg 39w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-555x424.jpg 555w, https://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg 633w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img class="alignnone wp-image-43 size-full" src="http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg" alt="" width="633" height="484" srcset="http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg 633w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg 300w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-39x30.jpg 39w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-555x424.jpg 555w" sizes="(max-width: 633px) 100vw, 633px" /><img class="alignnone size-medium wp-image-43" src="http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg" alt="" width="300" height="229" srcset="http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-300x229.jpg 300w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-39x30.jpg 39w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n-555x424.jpg 555w, http://cbd-shop.ga/wp-content/uploads/2020/11/126882465_10215249419263537_3758840917331352753_n.jpg 633w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://cbd-shop.ga/termek/harapos-kutya/feed/</wfw:commentRss>
+							<wfw:commentRss>http://cbd-shop.ga/termek/harapos-kutya/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

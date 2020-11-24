@@ -121,7 +121,7 @@
 .ypop-wrapper a.close {
     width: 30px;
     height: 30px;
-    background: transparent url('https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-popup/assets/images/close-buttons/close1.png') top left no-repeat;
+    background: transparent url('http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-popup/assets/images/close-buttons/close1.png') top left no-repeat;
     position: absolute;
     top: 0px;
     right: 0px;
@@ -213,7 +213,7 @@ figure#ypop-image img{
     width: 16px;
     height: 16px;
     display: inline-block;
-    background: url('https://cbd-shop.ga/wp-content/plugins/yith-woocommerce-popup/assets/images/checkbox-button.png') no-repeat center bottom;
+    background: url('http://cbd-shop.ga/wp-content/plugins/yith-woocommerce-popup/assets/images/checkbox-button.png') no-repeat center bottom;
     float: left;
     margin-right: 8px;
 }

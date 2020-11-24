@@ -25,14 +25,14 @@ General Styles - FlexSlider
 	opacity: 0;
 	cursor: grab;
 	cursor: -webkit-grab;
-	cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.png) 40 40, url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, e-resize;
+	cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.png) 40 40, url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, e-resize;
 	/* standard: note the different path for the .cur file */
-	cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize\9;
+	cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize\9;
 	/* IE 8 and below */
 
-	*cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize;
+	*cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize;
 	/* IE 7 and below */
-	_cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize;
+	_cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/prev-light.cur) 40 40, n-resize;
 	/* IE 6 */
 }
 
@@ -41,14 +41,14 @@ General Styles - FlexSlider
 	opacity: 0;
 	cursor: grab;
 	cursor: -webkit-grab;
-	cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.png) 40 40, url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, e-resize;
+	cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.png) 40 40, url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, e-resize;
 	/* standard: note the different path for the .cur file */
-	cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize\9;
+	cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize\9;
 	/* IE 8 and below */
 
-	*cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize;
+	*cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize;
 	/* IE 7 and below */
-	_cursor: url(https://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize;
+	_cursor: url(http://cbd-shop.ga/wp-content/themes/shop-isle/assets/images/next-light.cur) 40 40, n-resize;
 	/* IE 6 */
 }
 
