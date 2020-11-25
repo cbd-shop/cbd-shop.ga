@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 	<!--[if IE 8]>
-		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="hu-HU">
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="hu">
 	<![endif]-->
 	<!--[if !(IE 8) ]><!-->
-		<html xmlns="http://www.w3.org/1999/xhtml" lang="hu-HU">
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="hu">
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="https://cbd-shop.ga/wp-login.php?action=lostpassword">Elfelejtett jelszó?</a>
+					<a href="https://cbd-shop.ga/fiokom/lost-password/">Elfelejtett jelszó?</a>
 				</p>
 	
 	<script type="text/javascript">
