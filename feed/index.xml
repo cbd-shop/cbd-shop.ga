@@ -12,12 +12,28 @@
 	<atom:link href="https://cbd-shop.ga/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cbd-shop.ga/</link>
 	<description>csak  a kender</description>
-	<lastBuildDate>2020-11-29 12:16:02</lastBuildDate>
+	<lastBuildDate>Sun, 29 Nov 2020 12:16:02 +0000</lastBuildDate>
 	<language>hu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.9</generator>
-</channel>
+	<item>
+		<title>Helló Világ!</title>
+		<link>https://cbd-shop.ga/2020/11/21/hello-vilag/</link>
+				<comments>https://cbd-shop.ga/2020/11/21/hello-vilag/#comments</comments>
+				<pubDate>Sat, 21 Nov 2020 15:36:58 +0000</pubDate>
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+				<category><![CDATA[Egyéb kategória]]></category>
+
+		<guid isPermaLink="false">https://cbd-shop.ga/?p=1</guid>
+				<description><![CDATA[Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.]]></description>
+								<content:encoded><![CDATA[
+<p>Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://cbd-shop.ga/2020/11/21/hello-vilag/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
 </rss>
