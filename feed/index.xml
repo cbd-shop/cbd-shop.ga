@@ -12,7 +12,7 @@
 	<atom:link href="https://cbd-shop.ga/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cbd-shop.ga/</link>
 	<description>csak  a kender</description>
-	<lastBuildDate>Sun, 29 Nov 2020 12:16:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Nov 2020 16:42:17 +0000</lastBuildDate>
 	<language>hu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,13 @@
 				<category><![CDATA[Egyéb kategória]]></category>
 
 		<guid isPermaLink="false">https://cbd-shop.ga/?p=1</guid>
-				<description><![CDATA[Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.]]></description>
+				<description><![CDATA[Üdvözlet a Kender világában Én Luca Zoltán vagyok és szeretnélek él kísérni egy természetes út felé ami segít]]></description>
 								<content:encoded><![CDATA[
-<p>Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.</p>
+<p>Üdvözlet a Kender világában </p>
+
+
+
+<p> Én Luca Zoltán vagyok és szeretnélek él kísérni egy természetes út felé ami segít </p>
 ]]></content:encoded>
 							<wfw:commentRss>https://cbd-shop.ga/2020/11/21/hello-vilag/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
