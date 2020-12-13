@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+		<title>cbdcbd &#8211; cbd</title>
+		<atom:link href="https://cbd-shop.ga/forums/topic/cbd/feed/" rel="self" type="application/rss+xml" />
+		<link>https://cbd-shop.ga/forums/topic/cbd/feed/</link>
+		<description></description>
+		<pubDate>Sun, 13 Dec 2020 16:45:51 +0000</pubDate>
+		<generator>http://bbpress.org/?v=2.5.14-6684</generator>
+		<language>hu</language>
+
+		
+														
+					
+				<item>
+					<guid>https://cbd-shop.ga/forums/topic/cbd/#post-164</guid>
+					<title><![CDATA[cbd]]></title>
+					<link>https://cbd-shop.ga/forums/topic/cbd/#post-164</link>
+					<pubDate>Sat, 05 Dec 2020 08:01:36 +0000</pubDate>
+					<dc:creator>Administrator</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>cbd</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+
